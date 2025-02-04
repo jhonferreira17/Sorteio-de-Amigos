@@ -16,7 +16,7 @@ Um aplicativo simples e divertido para sortear amigos! Adicione amigos à lista 
 
 ## 📸 Demonstração
 
-![Demonstração do Aplicativo](link-da-imagem-aqui)
+![Demonstração do Aplicativo]( https://jhonferreira17.github.io/Sorteio-de-Amigos/)
 
 ## 📋 Como Usar
 
