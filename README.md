@@ -15,8 +15,8 @@ Um aplicativo simples e divertido para sortear amigos! Adicione amigos à lista 
 - JavaScript
 
 ## 📸 Demonstração
-
-![Demonstração do Aplicativo]( https://jhonferreira17.github.io/Sorteio-de-Amigos/)
+Clique aqui para testar: 
+[abrir]( https://jhonferreira17.github.io/Sorteio-de-Amigos/)
 
 ## 📋 Como Usar
 
